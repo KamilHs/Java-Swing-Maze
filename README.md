@@ -24,4 +24,4 @@
 
 ## Usage
 
-Complie '''App.java''' with '''javac App.java''' command and run '''java App'''
+Complie ```App.java``` with ```javac App.java``` command and run ```java App```
